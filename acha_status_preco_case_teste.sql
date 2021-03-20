@@ -1,0 +1,1 @@
+call acha_status_preco_case('1004327');
